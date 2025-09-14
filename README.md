@@ -2,6 +2,8 @@
 
 Bu proje, deniz salyangozlarının (abalone) fiziksel özelliklerine dayanarak yaşlarını tahmin etmek için geliştirilmiş bir makine öğrenimi uygulamasıdır. R Shiny ile oluşturulmuş interaktif bir arayüz sunar.
 
+##Citation
+https://doi.org/10.5281/zenodo.17114931
 
 ## 📋 Özellikler
 - 6+ makine öğrenimi modeli (Random Forest, XGBoost, SVM vb.)
@@ -63,8 +65,7 @@ MIT Lisansı - Detaylar için LICENSE dosyasına bakın.
 İletişim: [Mustafa ÇAKIR] - [ckrmustafa@yahoo.com]
 Güncelleme Tarihi: 05/04/2025
 
-##Citation
-https://doi.org/10.5281/zenodo.17114931
+
 
 
 
