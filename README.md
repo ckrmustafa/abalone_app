@@ -63,6 +63,8 @@ MIT Lisansı - Detaylar için LICENSE dosyasına bakın.
 İletişim: [Mustafa ÇAKIR] - [ckrmustafa@yahoo.com]
 Güncelleme Tarihi: 05/04/2025
 
+##Citation
+https://doi.org/10.5281/zenodo.17114931
 
 
 
